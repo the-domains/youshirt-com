@@ -1,0 +1,28 @@
+name: Youshirt.com
+favicon: null
+layout_spectrum: 0.3521988717839122
+typography_spectrum: 0.6697849119082093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.07120004971511662
+  lightness: 0.17886053677648306
+  saturation: 0.11423154291696846
+  rhythmicContrast: 0.32523342524655163
+purpose: []
