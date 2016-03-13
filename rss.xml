@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[T-Shirt Fundraising]]></title>
+        <description><![CDATA[T-Shirt Fundraising]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 11:19:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/279e66ca-6862-4fb9-8528-b1bfeea8f625.jpg">]]></description>
+            <link>undefined69267150-1ac8-4f24-b05e-1b80f8172c44/index.html</link>
+            <guid isPermaLink="false">69267150-1ac8-4f24-b05e-1b80f8172c44</guid>
+            <pubDate>Sun, 13 Mar 2016 11:19:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
